@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# SHOWBIZZ 
+An amazing MERN stack CRUD application that lets you write blogs on your favourite TV shows!!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Why did I choose this project
+I absolutely love reading, writing, and watching TV shows in my leisure time. To combine these interests into a fun project, I decided to create a CRUD application centered around TV show reviews and discussions. Rather than a traditional blog, this application allows users to share their opinions on TV shows they've watched and engage in discussions with others.
 
-## Available Scripts
+# What does this application allow you to do
+This is a simple yet fun application to write about your favourite TV shows. Some of its features are:
 
-In the project directory, you can run:
+* You can create an account for yourself to write your own blogs.
+* You can read the blogs written by others. 
+* You can click on individual authors to check out their work.
+* You can browse posts according to different categories.
 
-### `npm start`
+# Tech Stack used for this application
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Frontend 
+  - **React**: A JavaScript library for building user interfaces.
+  - **React-Router-Dom**: A library for managing routing and navigation in React applications.
+  - **Tailwind CSS**: A utility-first CSS framework for quickly styling web applications.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Backend 
+  - **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine, used for server-side scripting.
+  - **Express**: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+  - **MongoDB**: A NoSQL document database that stores data in flexible, JSON-like documents.
 
-### `npm test`
+# How to view and access the website
+The website has been deployed on render.
+You can view and access the website by clicking on the following link below
+https://mern-blog-frontend-74uv.onrender.com
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# How to access the code for the website 
+The code for the website is available on my github account- Sammy-ferns
 
-### `npm run build`
+* Frontend code link: https://github.com/Sammy-ferns/MERN-blog-frontend.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Backend code link: https://github.com/Sammy-ferns/MERN-blog-backend.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I hope you enjoy my project!! Feel free to create an account and write about the shows you have watched and found interesting.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

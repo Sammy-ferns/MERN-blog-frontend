@@ -16,7 +16,7 @@ const Loader = () => {
         ></iframe>
       </div>
       <p>
-        <a href="https://giphy.com/gifs/pizza-loading-snacks-3o7bu8sRnYpTOG1p8k">
+        <a href="https://cdn.dribbble.com/users/1053052/screenshots/3600670/_____.gif">
           via GIPHY
         </a>
       </p>
